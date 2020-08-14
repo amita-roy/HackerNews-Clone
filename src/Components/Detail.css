@@ -1,0 +1,12 @@
+.detail-text {
+  color: rgb(138, 138, 138);
+  line-height: 2;
+}
+
+.textarea {
+  background-color: transparent;
+}
+
+.button {
+  margin-bottom: 50px;
+}

@@ -1,0 +1,65 @@
+.header {
+  padding: 10px 20px;
+  background-color: #f66605;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  box-shadow: 2px 2px 3px 3px rgba(180, 180, 180, 0.6);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo a {
+  text-decoration: none;
+  color: white;
+}
+
+.logo h3 {
+  margin-left: 10px;
+}
+
+.header-left {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left .links {
+  margin-left: 30px;
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+  margin-right: 30px;
+}
+
+.header-right .login {
+  font-size: 18px;
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 6px 20px;
+  border-radius: 4px;
+  transition: all 0.5s ease;
+}
+
+.header-right .login:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.header-right .login:hover,
+.header-right .login:focus {
+  outline: none;
+}
+
+/* Colors */
+
+/* color: #ffba8c; */
+/* color: #f6f6ef;*/

@@ -1,0 +1,10 @@
+.main {
+  background-color: #f6f6ef;
+}
+
+.content {
+  padding: 10px 50px;
+  min-height: calc(100vh - 150px);
+  /* max-width: 80%; */
+  margin: 0 auto;
+}
