@@ -2,11 +2,11 @@
 
 ## I built this project for my practice on React. This page is a clone of this https://news.ycombinator.com/ website.
 
-![Main Page](./app/assets/images/ss1.png)
+![Main Page](/src/assets/images/ss1.png)
 
-![Comments](./app/assets/images/ss2.png)
+![Comments](/src/assets/images/ss2.png)
 
-![List from footer](./app/assets/images/ss3.png)
+![List from footer](/src/assets/images/ss3.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
