@@ -5,7 +5,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Demo
-[Live Demo](https://hacker-news-clone-chi.vercel.app/)
+
+[Live Demo]()
 
 ## Available Scripts
 
